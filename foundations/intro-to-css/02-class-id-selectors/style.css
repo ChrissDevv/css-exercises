@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.pink{
+    background: lightpink;
+    font-family:Verdana, DejaVu Sans, sans-serif;
+}
+#second{
+    color: blue;
+    font-size: 36px;
+}
+#third{
+    color: blue;
+    font-size: 32px;
+    background: lightgreen;
+
+}
